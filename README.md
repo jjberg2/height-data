@@ -23,6 +23,7 @@ https://portals.broadinstitute.org/collaboration/giant/images/0/01/GIANT_HEIGHT_
 
 
 
+
 --
 
 Neale lab GWAS of "White British" individiuals in the UK Biobank:
@@ -39,6 +40,7 @@ https://www.dropbox.com/s/sbfgb6qd5i4cxku/50.assoc.tsv.gz?dl=0
 
 
 
+
 --
 
 Loh et al GWAS of all European individual in UK Biobank:
@@ -51,6 +53,7 @@ https://data.broadinstitute.org/alkesgroup/UKBB/
 
 direct download:
 https://data.broadinstitute.org/alkesgroup/UKBB/body_HEIGHTz.sumstats.gz
+
 
 
 
