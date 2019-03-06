@@ -60,7 +60,7 @@ https://data.broadinstitute.org/alkesgroup/UKBB/body_HEIGHTz.sumstats.gz
 
 ----
 
-Robinson et al sibling GWAS, including both the 2016 release impacted by the computational bug/population structure, and the 2018 release:
+Robinson et al sibling GWAS, including both the 2016 release impacted by the computational bug/population structure, and the corrected 2018 release:
 
 filenames:
 
